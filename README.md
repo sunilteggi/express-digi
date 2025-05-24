@@ -14,7 +14,7 @@
  Express.js
  JavaScript
  Nodemon (for development)
- HTTP module (for testing)
+ HTTP module (for testing).
 
 **Installation**
  git clone https://github.com/your-username/express-digi.git
